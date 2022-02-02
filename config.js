@@ -1,7 +1,7 @@
 module.exports = {
 	//address and port to which server will bind, host can also be a hostname
-	"host": "127.0.0.1",
-	"port": 7777,
+	"host": "0.0.0.0",
+	"port": 80,
 
 	//length of random characters in link that's generated on document save
 	"keyLength": 10,
