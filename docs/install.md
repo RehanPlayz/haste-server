@@ -57,10 +57,9 @@ npm run-script build
 Haste can already work "out-of-the-box" with no config changes - useful for environments like Heroku or Dokku.  
 You can use `HOST` and `PORT` environment variables for host and port specification to override config values.  
 
-However, there is an [example configuration file](../example.config.js) available for you to copy:
 
 ```bash
-cp example.config.js config.js
+nano config.js
 ```
 
 By default storage system stores haste documents as hashed files in `./data` directory.  
