@@ -64,7 +64,7 @@ nano config.js
 
 By default storage system stores haste documents as hashed files in `./data` directory.  
 
-Rest of provided defaults are enough to run the server, however, example config contains comments about what each value does and you can adjust the options to your likings.
+Rest of provided defaults are enough to run the server, however, the config contains comments about what each value does and you can adjust the options to your likings.
 
 [Guide for all supported storage systems](./storage.md).  
 [Guide for all supported key generators](./generators.md).  
